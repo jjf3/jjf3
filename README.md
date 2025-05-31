@@ -4,8 +4,8 @@
  
 👨‍💻 Software Engineer | Digital Culture Preservationist | Infrastructure Architect
 Full-stack developer with 6+ years building scalable applications and 12+ years in Linux system engineering. Currently transitioning from infrastructure architecture to software development, bringing deep technical expertise and a unique perspective on digital community dynamics.
-🚀 Core Technical Skills
 
+🚀 Core Technical Skills
 Frontend: React, JavaScript/TypeScript, responsive web design, modern CSS frameworks
 Backend: Node.js, Python, RESTful APIs, microservices architecture
 Infrastructure: Linux system administration, Docker containerization, CI/CD pipelines
