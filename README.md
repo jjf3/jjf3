@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=~$%20whoami;jjf3%20-%20Software%20Engineer;~$%20cat%20skills.txt;Full-Stack%20Developer%20%7C%20Digital%20Archivist;~$%20ls%20expertise/;JavaScript%20Python%20React%20Node.js;Docker%20Linux%20System%20Architecture;~$%20git%20log%20--oneline;6+%20years%20scalable%20applications;Linux%20infrastructure%20engineering;Open%20source%20contributions;Digital%20preservation%20projects;~$%20_&font=mono&color=00ff88&background=1e1e1e&center=true&width=600&height=300&duration=3000&pause=1000">
-
+<\dev>
+ 
 👨‍💻 Software Engineer | Digital Culture Preservationist | Infrastructure Architect
 Full-stack developer with 6+ years building scalable applications and 12+ years in Linux system engineering. Currently transitioning from infrastructure architecture to software development, bringing deep technical expertise and a unique perspective on digital community dynamics.
 🚀 Core Technical Skills
