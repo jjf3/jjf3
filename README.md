@@ -1,62 +1,131 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=~$%20whoami;jjf3%20-%20Software%20Engineer;~$%20cat%20skills.txt;Full-Stack%20Developer%20%7C%20Digital%20Archivist;~$%20ls%20expertise/;JavaScript%20Python%20React%20Node.js;Docker%20Linux%20System%20Architecture;~$%20git%20log%20--oneline;6+%20years%20scalable%20applications;Linux%20infrastructure%20engineering;Open%20source%20contributions;Digital%20preservation%20projects;~$%20_&font=mono&color=00ff88&background=1e1e1e&center=true&width=600&height=300&duration=3000&pause=1000">
 </div>
- 
-👨‍💻 Software Engineer | Digital Culture Preservationist | Infrastructure Architect
-Full-stack developer with 6+ years building scalable applications and 12+ years in Linux system engineering. Currently transitioning from infrastructure architecture to software development, bringing deep technical expertise and a unique perspective on digital community dynamics.
 
-Core Technical Skills: ⚛️ React, 🟨 JavaScript/🔷 TypeScript, 📱 Responsive Design, 🎨 Modern CSS, 🟢 Node.js, 🐍 Python, 🔗 RESTful APIs, 🏗️ Microservices, 🐧 Linux Administration, 🐳 Docker, 🔄 CI/CD Pipelines 🗄️ SQL Optimization, 📊 Data Modeling, ⚡ Performance Tuning, ☁️ Scalable Architecture, 📈 Monitoring, 🚀 Automated Deployment, 🤖 GPT-4, 🧠 Claude API, 🔍 Intelligent Content Analysis
+# 👨‍💻 Software Engineer | Digital Culture Preservationist | Infrastructure Architect
 
+Full-stack developer with **6+ years building scalable applications** and **12+ years in Linux system engineering**. Currently transitioning from infrastructure architecture to software development, bringing deep technical expertise and a unique perspective on digital community dynamics.
 
-🎯 Current Focus & Impact
-Building applications that preserve and protect digital culture while solving real-world problems.
+---
 
-Digital Archive Platform: Developing scalable multimedia applications for content preservation with automated metadata extraction and community collaboration features
-Open Source Contributions: Contributing to preservation tools and community-driven projects that bridge technical solutions with cultural impact
-Security Research: Ethical security analysis focused on threat intelligence and community protection (responsible disclosure practices)
+## 🚀 Core Technical Skills
 
-🏛️ Unique Value Proposition
-I understand both the technical and human sides of digital communities. My background spans from ROM preservation and reverse engineering to enterprise Linux architecture, giving me insight into how communities form around technology and how to build platforms that truly serve their needs.
+### Frontend Development
+- ⚛️ **React** - Component-based UI development
+- 🟨 **JavaScript** / 🔷 **TypeScript** - Modern ES6+ and type-safe development
+- 📱 **Responsive Design** - Mobile-first, cross-platform compatibility
+- 🎨 **Modern CSS** - Flexbox, Grid, CSS-in-JS, Sass/SCSS
 
-This perspective drives me to:
-Design user experiences that reflect real community workflows
-Build robust systems that can handle organic, unpredictable growth
-Prioritize both technical excellence and cultural sensitivity
-Create sustainable solutions for long-term digital preservation
+### Backend Development
+- 🟢 **Node.js** - Server-side JavaScript, Express.js
+- 🐍 **Python** - Django, Flask, data processing
+- 🔗 **RESTful APIs** - API design, documentation, versioning
+- 🏗️ **Microservices** - Distributed system architecture
 
-📈 Professional Evolution
+### Infrastructure & DevOps
+- 🐧 **Linux Administration** - System configuration, performance tuning
+- 🐳 **Docker** - Containerization, multi-stage builds
+- 🔄 **CI/CD Pipelines** - Automated testing, deployment workflows
+- ☁️ **Cloud Architecture** - Scalable system design, monitoring
 
-2012-2024: IT Services & Linux Engineering - Scaled from field technician to infrastructure architect
-2012: Bachelor's in Information Systems - Formal foundation for self-directed technical exploration
-2001-Present: Digital Community Research - Deep engagement with online communities, studying formation, evolution, and preservation needs
-2025+: Software Engineering Transition - Leveraging infrastructure expertise in application development
+### Data & AI
+- 🗄️ **SQL Optimization** - Query performance, database design
+- 📊 **Data Modeling** - Relational and NoSQL database structures
+- 🤖 **AI Integration** - GPT-4, Claude API implementation
+- 🔍 **Content Analysis** - Intelligent data processing and insights
 
-🌟 What I Bring to Progressive Tech Companies
+---
 
-Systems thinking: Infrastructure background provides deep understanding of scalable architecture
-Community-first development: User research grounded in decades of community observation
-Technical versatility: Comfortable across the full stack with strong Linux/DevOps foundation
-Cultural awareness: Understanding of digital communities, online dynamics, and preservation ethics
-Innovation mindset: Approach problems by understanding historical context and community needs
+## 🎯 Featured Projects
 
-🔮 Looking Forward
-Seeking opportunities with mission-driven companies that value both technical excellence and positive social impact. Particularly interested in:
+### 🏛️ Digital Archive Platform
+> Scalable multimedia application for content preservation with automated metadata extraction
 
-Platforms that support community building and digital preservation
+**Tech Stack:** React, Node.js, Python, Docker, PostgreSQL  
+**Features:** Community collaboration, automated tagging, bulk processing  
+**Impact:** Preserving digital culture for future generations  
 
-Developer tools that democratize technology access
+### 🔍 Security Research Tools
+> Ethical security analysis focused on threat intelligence and community protection
 
-Applications addressing social good through innovative technical solutions
+**Tech Stack:** Python, Linux, Docker, RESTful APIs  
+**Focus:** Responsible disclosure practices, automated threat detection  
+**Impact:** Enhanced community safety through proactive security measures  
 
-Teams that appreciate both individual expertise and collaborative growth
+### 🌐 Open Source Contributions
+> Contributing to preservation tools and community-driven projects
 
+**Focus Areas:** Digital preservation, developer tools, community platforms  
+**Philosophy:** Bridging technical solutions with cultural impact  
 
-"Technology should serve communities, not the other way around. I build with that principle at the core of every project."
+---
 
-📫 Let's Connect
+## 🏛️ Unique Value Proposition
 
-💼 Open to software engineering opportunities at progressive tech companies
+**I understand both the technical and human sides of digital communities.** My background spans from ROM preservation and reverse engineering to enterprise Linux architecture, giving me insight into how communities form around technology and how to build platforms that truly serve their needs.
 
-🤝 Available for open source collaboration on digital preservation projects
+### This perspective drives me to:
+- ✨ **Design user experiences** that reflect real community workflows
+- 🔧 **Build robust systems** that can handle organic, unpredictable growth  
+- ⚖️ **Prioritize both technical excellence** and cultural sensitivity
+- 🌱 **Create sustainable solutions** for long-term digital preservation
 
-🎤 Interested in speaking about digital community dynamics and preservation ethics
+---
+
+## 📈 Professional Evolution
+
+| Timeline | Role & Focus | Key Achievements |
+|----------|-------------|------------------|
+| **2025+** | Software Engineering Transition | Leveraging infrastructure expertise in application development |
+| **2012-2024** | IT Services & Linux Engineering | Scaled from field technician to infrastructure architect |
+| **2012** | Bachelor's in Information Systems | Formal foundation for self-directed technical exploration |
+| **2001-Present** | Digital Community Research | Deep engagement with online communities and preservation |
+
+---
+
+## 🌟 What I Bring to Progressive Tech Companies
+
+🧠 **Systems Thinking**  
+Infrastructure background provides deep understanding of scalable architecture
+
+👥 **Community-First Development**  
+User research grounded in decades of community observation
+
+🔧 **Technical Versatility**  
+Comfortable across the full stack with strong Linux/DevOps foundation
+
+🌍 **Cultural Awareness**  
+Understanding of digital communities, online dynamics, and preservation ethics
+
+💡 **Innovation Mindset**  
+Approach problems by understanding historical context and community needs
+
+---
+
+## 🔮 Looking Forward
+
+Seeking opportunities with **mission-driven companies** that value both technical excellence and positive social impact.
+
+### Particularly interested in:
+- 🏗️ **Platforms** that support community building and digital preservation
+- 🛠️ **Developer tools** that democratize technology access  
+- 🌍 **Applications** addressing social good through innovative technical solutions
+- 🤝 **Teams** that appreciate both individual expertise and collaborative growth
+
+---
+
+## 💭 Philosophy
+
+> *"Technology should serve communities, not the other way around. I build with that principle at the core of every project."*
+
+---
+
+## 📫 Let's Connect
+
+💼 **Open to software engineering opportunities** at progressive tech companies  
+🤝 **Available for open source collaboration** on digital preservation projects  
+🎤 **Interested in speaking** about digital community dynamics and preservation ethics
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/john-falco-54464220/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:john.falco.slu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=github)](your-portfolio-url)
