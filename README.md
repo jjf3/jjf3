@@ -116,7 +116,7 @@ Seeking opportunities with **mission-driven companies** that value both technica
 
 ## 💭 Philosophy
 
-> *"Technology should serve communities, not the other way around. I build with that principle at the core of every project."*
+> *"Technology should serve communities, not the other way around. From sci-fi forums to gaming communities, I've seen how media creates lasting bonds between people. I build platforms that honor these connections - preserving digital culture while empowering the communities that create it."*
 
 ---
 
