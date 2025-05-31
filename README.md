@@ -48,14 +48,20 @@ Innovation mindset: Approach problems by understanding historical context and co
 Seeking opportunities with mission-driven companies that value both technical excellence and positive social impact. Particularly interested in:
 
 Platforms that support community building and digital preservation
+
 Developer tools that democratize technology access
+
 Applications addressing social good through innovative technical solutions
+
 Teams that appreciate both individual expertise and collaborative growth
 
 
 "Technology should serve communities, not the other way around. I build with that principle at the core of every project."
+
 📫 Let's Connect
 
 💼 Open to software engineering opportunities at progressive tech companies
+
 🤝 Available for open source collaboration on digital preservation projects
+
 🎤 Interested in speaking about digital community dynamics and preservation ethics
