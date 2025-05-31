@@ -30,7 +30,7 @@ I'm a digital culture archivist disguised as a full-stack developer. I hope my G
 
 With several projects in progress I hope to curate a diverse library that spans decades of digital culture evolution. 
 
-When I start a new project, I don't just search for existing implementations - I search for the stories behind the code, the communities that created it, and the cultural moments that made it necessary.
+When I start a new project, I don't just search for existing implementations or ask AI to do it for me - I search for the stories behind the code, the communities that created it, and the cultural moments that made it necessary.
 
 My Current Focus:
 💡 Full-stack development with 6+ years building scalable applications
