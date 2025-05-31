@@ -1,44 +1,60 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=~$%20whoami;jjf3;~$%20cat%20about.txt;Digital%20Archivist%20%26%20Code%20Curator;~$%20ls%20skills/;bash%20Python%20React%20Node.js;~$%20history%20%7C%20head;1993:%20First%20digital%20memory;2001:%20ROM%20hacking%20era;2003:%20Neopets%20hacking%20phase;2008:%20Political%20forums;2012:%20Malware%20research;2025:%20Building%20scalable%20media%20apps;~$%20_&font=mono&color=00ff88&background=1e1e1e&center=true&width=500&height=350&duration=3000&pause=1000">
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=~$%20whoami;jjf3%20-%20Software%20Engineer;~$%20cat%20skills.txt;Full-Stack%20Developer%20%7C%20Digital%20Archivist;~$%20ls%20expertise/;JavaScript%20Python%20React%20Node.js;Docker%20Linux%20System%20Architecture;~$%20git%20log%20--oneline;6+%20years%20scalable%20applications;Linux%20infrastructure%20engineering;Open%20source%20contributions;Digital%20preservation%20projects;~$%20_&font=mono&color=00ff88&background=1e1e1e&center=true&width=600&height=300&duration=3000&pause=1000">
 
-🦕 1993: The Jurassic Spark
-My journey began with Spielberg's Jurassic Park - the film that taught me technology could create impossible worlds. This blockbuster moment ignited a lifelong fascination with digital media and the communities that form around it.
+👨‍💻 Software Engineer | Digital Culture Preservationist | Infrastructure Architect
+Full-stack developer with 6+ years building scalable applications and 12+ years in Linux system engineering. Currently transitioning from infrastructure architecture to software development, bringing deep technical expertise and a unique perspective on digital community dynamics.
+🚀 Core Technical Skills
 
-⭐ 1995-1998: The Great Sci-Fi Wars:
-Witnessed and participated in the legendary Star Wars vs Star Trek forum battles. Later expanded into disaster movie obsessions (Deep Impact, Armageddon) - participating in those communities showed me how fans rally around shared catastrophic fantasies or shared universes. 
+Frontend: React, JavaScript/TypeScript, responsive web design, modern CSS frameworks
+Backend: Node.js, Python, RESTful APIs, microservices architecture
+Infrastructure: Linux system administration, Docker containerization, CI/CD pipelines
+Databases: SQL optimization, data modeling, performance tuning
+Cloud: Scalable system design, monitoring, automated deployment strategies
+AI Integration: GPT-4, Claude API implementation, intelligent content analysis tools
 
-🎮 2001-2005: ROM Hacking Underground:
-Deep dive into the Pokemon ROM hacking scene - testing countless unofficial games, documenting community workflows, and I am now attempting to archive projects before Nintendo's inevitable takedowns. I am working on building a comprehensive databases of the ROMs if possible.
+🎯 Current Focus & Impact
+Building applications that preserve and protect digital culture while solving real-world problems.
 
-🐾 2003-2006: Virtual Economy Exploitation:
-Explored Neopets hacking and virtual economy manipulation. This led to broader web security research and understanding how online communities create and protect digital value systems.
+Digital Archive Platform: Developing scalable multimedia applications for content preservation with automated metadata extraction and community collaboration features
+Open Source Contributions: Contributing to preservation tools and community-driven projects that bridge technical solutions with cultural impact
+Security Research: Ethical security analysis focused on threat intelligence and community protection (responsible disclosure practices)
 
-🕳️ 2008-2012: Political Digital Anthropology:
-I partipated in the evolution of political discourse in online spaces during the Obama era. Studied how forums like debatepolitics and CityData transformed from neutral discussion spaces into polarized echo chambers. Also tried challengeing users beliefs in their predetermined viewpoints. Which led to various threats. 
+🏛️ Unique Value Proposition
+I understand both the technical and human sides of digital communities. My background spans from ROM preservation and reverse engineering to enterprise Linux architecture, giving me insight into how communities form around technology and how to build platforms that truly serve their needs.
 
-🎓 2012-2024: Academic Foundation & Professional Evolution:
-Earned my Bachelor's degree in Information Systems in 2012, providing the formal framework for years of self-taught digital exploration. Spent the next 12 years in the IT services space, climbing from humble field technician fixing computers to linux engineer architecting scalable systems - bridging my underground hacking knowledge with enterprise-level infrastructure.
+This perspective drives me to:
+Design user experiences that reflect real community workflows
+Build robust systems that can handle organic, unpredictable growth
+Prioritize both technical excellence and cultural sensitivity
+Create sustainable solutions for long-term digital preservation
 
-🚀 2025+: Software Engineering Transition & Community Impact:
-Looking forward to transitioning into a software engineer role where I can leverage decades of digital culture expertise in professional development. Planning to contribute actively to various open source communities, continue my malware research with a focus on threat intelligence, and build scalable multimedia applications that serve the communities I've studied for over 30 years. The goal is to create platforms that preserve digital culture while protecting against the threats that destroy it.
+📈 Professional Evolution
+
+2012-2024: IT Services & Linux Engineering - Scaled from field technician to infrastructure architect
+2012: Bachelor's in Information Systems - Formal foundation for self-directed technical exploration
+2001-Present: Digital Community Research - Deep engagement with online communities, studying formation, evolution, and preservation needs
+2025+: Software Engineering Transition - Leveraging infrastructure expertise in application development
+
+🌟 What I Bring to Progressive Tech Companies
+
+Systems thinking: Infrastructure background provides deep understanding of scalable architecture
+Community-first development: User research grounded in decades of community observation
+Technical versatility: Comfortable across the full stack with strong Linux/DevOps foundation
+Cultural awareness: Understanding of digital communities, online dynamics, and preservation ethics
+Innovation mindset: Approach problems by understanding historical context and community needs
+
+🔮 Looking Forward
+Seeking opportunities with mission-driven companies that value both technical excellence and positive social impact. Particularly interested in:
+
+Platforms that support community building and digital preservation
+Developer tools that democratize technology access
+Applications addressing social good through innovative technical solutions
+Teams that appreciate both individual expertise and collaborative growth
 
 
-🔥 About My Archive Philosophy 🔥
+"Technology should serve communities, not the other way around. I build with that principle at the core of every project."
+📫 Let's Connect
 
-I'm a digital culture archivist disguised as a full-stack developer. I hope my GitHub will feature a living museum of internet history - from ROM hacking tools to political forum analysis scripts. Every repository will tell a story about how online communities form, evolve, and sometimes destroy themselves.
-
-With several projects in progress I hope to curate a diverse library that spans decades of digital culture evolution. 
-
-When I start a new project, I don't just search for existing implementations or ask AI to do it for me - I search for the stories behind the code, the communities that created it, and the cultural moments that made it necessary.
-
-My Current Focus:
-💡 Full-stack development with 6+ years building scalable applications
-
-🏛️ Digital anthropology - studying how online communities evolve and radicalize
-
-🎮 Game preservation - archiving ROM hacks and fan-made content
-
-🔍 Forum archaeology - documenting the rise and fall of internet communities
-
-🤖 AI integration with GPT-4o, Claude 3 Opus, and open-source models for content analysis
+💼 Open to software engineering opportunities at progressive tech companies
+🤝 Available for open source collaboration on digital preservation projects
+🎤 Interested in speaking about digital community dynamics and preservation ethics
