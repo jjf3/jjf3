@@ -5,21 +5,23 @@
 🦕 1993: The Jurassic Spark
 My journey began with Spielberg's Jurassic Park - the film that taught me technology could create impossible worlds. This blockbuster moment ignited a lifelong fascination with digital media and the communities that form around it.
 
-⭐ 1995-1998: The Great Sci-Fi Wars
+⭐ 1995-1998: The Great Sci-Fi Wars:
 Witnessed and participated in the legendary Star Wars vs Star Trek forum battles. Later expanded into disaster movie obsessions (Deep Impact, Armageddon) - participating in those communities showed me how fans rally around shared catastrophic fantasies or shared universes. 
 
-🎮 2001-2005: ROM Hacking Underground
+🎮 2001-2005: ROM Hacking Underground:
 Deep dive into the Pokemon ROM hacking scene - testing countless unofficial games, documenting community workflows, and I am now attempting to archive projects before Nintendo's inevitable takedowns. I am working on building a comprehensive databases of the ROMs if possible.
 
-🐾 2003-2006: Virtual Economy Exploitation
+🐾 2003-2006: Virtual Economy Exploitation:
 Explored Neopets hacking and virtual economy manipulation. This led to broader web security research and understanding how online communities create and protect digital value systems.
 
-🕳️ 2008-2012: Political Digital Anthropology
+🕳️ 2008-2012: Political Digital Anthropology:
 I partipated in the evolution of political discourse in online spaces during the Obama era. Studied how forums like debatepolitics and CityData transformed from neutral discussion spaces into polarized echo chambers. Also tried challengeing users beliefs in their predetermined viewpoints. Which led to various threats. 
 
-🎓 2012-2024: Academic Foundation & Professional Evolution Earned my Bachelor's degree in Information Systems in 2012, providing the formal framework for years of self-taught digital exploration. Spent the next 12 years in the IT services space, climbing from humble field technician fixing computers to linux engineer architecting scalable systems - bridging my underground hacking knowledge with enterprise-level infrastructure.
+🎓 2012-2024: Academic Foundation & Professional Evolution:
+Earned my Bachelor's degree in Information Systems in 2012, providing the formal framework for years of self-taught digital exploration. Spent the next 12 years in the IT services space, climbing from humble field technician fixing computers to linux engineer architecting scalable systems - bridging my underground hacking knowledge with enterprise-level infrastructure.
 
-🚀 2025+: Software Engineering Transition & Community Impact Looking forward to transitioning into a software engineer role where I can leverage decades of digital culture expertise in professional development. Planning to contribute actively to various open source communities, continue my malware research with a focus on threat intelligence, and build scalable multimedia applications that serve the communities I've studied for over 30 years. The goal is to create platforms that preserve digital culture while protecting against the threats that destroy it.
+🚀 2025+: Software Engineering Transition & Community Impact:
+Looking forward to transitioning into a software engineer role where I can leverage decades of digital culture expertise in professional development. Planning to contribute actively to various open source communities, continue my malware research with a focus on threat intelligence, and build scalable multimedia applications that serve the communities I've studied for over 30 years. The goal is to create platforms that preserve digital culture while protecting against the threats that destroy it.
 
 
 🔥 About My Archive Philosophy 🔥
