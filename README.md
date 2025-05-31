@@ -19,10 +19,13 @@ I partipated in the evolution of political discourse in online spaces during the
 
 🔥 About My Archive Philosophy 🔥
 
-I'm a digital culture archivist disguised as a full-stack developer. My GitHub serves as a living museum of internet history - from ROM hacking tools to political forum analysis scripts. Every repository tells a story about how online communities form, evolve, and sometimes destroy themselves.
-With 500+ forked repositories, I've curated a diverse library that spans decades of digital culture evolution. When I start a new project, I don't just search for existing implementations - I search for the stories behind the code, the communities that created it, and the cultural moments that made it necessary.
-My Current Focus:
+I'm a digital culture archivist disguised as a full-stack developer. I hope my GitHub will feature a living museum of internet history - from ROM hacking tools to political forum analysis scripts. Every repository will tell a story about how online communities form, evolve, and sometimes destroy themselves.
 
+With several projects in progress I hope to curate a diverse library that spans decades of digital culture evolution. 
+
+When I start a new project, I don't just search for existing implementations - I search for the stories behind the code, the communities that created it, and the cultural moments that made it necessary.
+
+My Current Focus:
 💡 Full-stack development with 6+ years building scalable applications
 
 🏛️ Digital anthropology - studying how online communities evolve and radicalize
