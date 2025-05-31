@@ -1,16 +1,19 @@
-## Hi there 👋
+<div style="background-color: #1e1e1e; color: #00ff88; font-family: 'Courier New', monospace; padding: 50px; text-align: center; font-size: 2rem;">
+  <span style="display: inline-block;">
+    <span>$&nbsp;</span><span id="typed-text">jjf3</span><span class="cursor">|</span>
+  </span>
+</div>
 
-<!--
-**jjf3/jjf3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+  .cursor {
+    display: inline-block;
+    background-color: #00ff88;
+    width: 10px;
+    margin-left: 5px;
+    animation: blink 1s step-start infinite;
+  }
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  @keyframes blink {
+    50% { background-color: transparent; }
+  }
+</style>
