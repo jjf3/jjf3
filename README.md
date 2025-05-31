@@ -6,12 +6,18 @@
 Full-stack developer with 6+ years building scalable applications and 12+ years in Linux system engineering. Currently transitioning from infrastructure architecture to software development, bringing deep technical expertise and a unique perspective on digital community dynamics.
 
 🚀 Core Technical Skills
-Frontend: React, JavaScript/TypeScript, responsive web design, modern CSS frameworks
-Backend: Node.js, Python, RESTful APIs, microservices architecture
-Infrastructure: Linux system administration, Docker containerization, CI/CD pipelines
-Databases: SQL optimization, data modeling, performance tuning
-Cloud: Scalable system design, monitoring, automated deployment strategies
-AI Integration: GPT-4, Claude API implementation, intelligent content analysis tools
+Frontend: ⚛️ React, 🟨 JavaScript/🔷 TypeScript, 📱 Responsive Design, 🎨 Modern CSS
+
+Backend: 🟢 Node.js, 🐍 Python, 🔗 RESTful APIs, 🏗️ Microservices
+
+Infrastructure: 🐧 Linux Administration, 🐳 Docker, 🔄 CI/CD Pipelines
+
+Databases: 🗄️ SQL Optimization, 📊 Data Modeling, ⚡ Performance Tuning
+
+Cloud: ☁️ Scalable Architecture, 📈 Monitoring, 🚀 Automated Deployment
+
+AI Integration: 🤖 GPT-4, 🧠 Claude API, 🔍 Intelligent Content Analysis
+
 
 🎯 Current Focus & Impact
 Building applications that preserve and protect digital culture while solving real-world problems.
