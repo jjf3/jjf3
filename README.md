@@ -17,6 +17,11 @@ Explored Neopets hacking and virtual economy manipulation. This led to broader w
 🕳️ 2008-2012: Political Digital Anthropology
 I partipated in the evolution of political discourse in online spaces during the Obama era. Studied how forums like debatepolitics and CityData transformed from neutral discussion spaces into polarized echo chambers. Also tried challengeing users beliefs in their predetermined viewpoints. Which led to various threats. 
 
+🎓 2012-2024: Academic Foundation & Professional Evolution Earned my Bachelor's degree in Information Systems in 2012, providing the formal framework for years of self-taught digital exploration. Spent the next 12 years in the IT services space, climbing from humble field technician fixing computers to linux engineer architecting scalable systems - bridging my underground hacking knowledge with enterprise-level infrastructure.
+
+🚀 2025+: Software Engineering Transition & Community Impact Looking forward to transitioning into a software engineer role where I can leverage decades of digital culture expertise in professional development. Planning to contribute actively to various open source communities, continue my malware research with a focus on threat intelligence, and build scalable multimedia applications that serve the communities I've studied for over 30 years. The goal is to create platforms that preserve digital culture while protecting against the threats that destroy it.
+
+
 🔥 About My Archive Philosophy 🔥
 
 I'm a digital culture archivist disguised as a full-stack developer. I hope my GitHub will feature a living museum of internet history - from ROM hacking tools to political forum analysis scripts. Every repository will tell a story about how online communities form, evolve, and sometimes destroy themselves.
