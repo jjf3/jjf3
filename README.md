@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=~$%20whoami;jjf3%20-%20Software%20Engineer;~$%20cat%20skills.txt;Full-Stack%20Developer%20%7C%20Digital%20Archivist;~$%20ls%20expertise/;JavaScript%20Python%20React%20Node.js;Docker%20Linux%20System%20Architecture;~$%20git%20log%20--oneline;6+%20years%20scalable%20applications;Linux%20infrastructure%20engineering;Open%20source%20contributions;Digital%20preservation%20projects;~$%20_&font=mono&color=00ff88&background=1e1e1e&center=true&width=600&height=300&duration=3000&pause=1000">
 </div>
 
-# 👨‍💻 Software Engineer | Infrastructure Architect
+# 👨‍💻 Software Engineer | Infrastructure Architect | Data Scientist 
 
 Full-stack developer with **6+ years building scalable applications** and **12+ years in Linux system engineering**. Currently transitioning from infrastructure architecture to software development, bringing deep technical expertise and a unique perspective on digital community dynamics.
 
@@ -38,8 +38,9 @@ Full-stack developer with **6+ years building scalable applications** and **12+ 
 
 ## 🎯 Featured Projects
 
-### 🏛️ Digital Archive Platform
-> Scalable multimedia application for content preservation with automated metadata extraction
+### 🏛️ RewindOS A Cultural Intelligence Data-Layer Platform
+> RewindOS turns pop culture into verifiable data, replacing rumor, AI slop, and hype with transparent analysis.
+> RewindOS measures culture with data, not vibes.
 
 **Tech Stack:** React, Node.js, Python, Docker, PostgreSQL  
 **Features:** Community collaboration, automated tagging, bulk processing  
@@ -76,7 +77,7 @@ Full-stack developer with **6+ years building scalable applications** and **12+ 
 
 | Timeline | Role & Focus | Key Achievements |
 |----------|-------------|------------------|
-| **2025+** | Software Engineering Transition | Leveraging infrastructure expertise in application development |
+| **2025** | Software Engineering Transition | Leveraging infrastructure expertise in application development |
 | **2012-2024** | IT Services & Linux Engineering | Scaled from field technician to infrastructure architect |
 | **2012** | Bachelor's in Information Systems | Formal foundation for self-directed technical exploration |
 | **2001-Present** | Digital Community Research | Deep engagement with online communities and preservation |
@@ -104,14 +105,7 @@ Approach problems by understanding historical context and community needs
 
 ## 🔮 Looking Forward
 
-Seeking opportunities with **mission-driven companies** that value both technical excellence and positive social impact.
-
-### Particularly interested in:
-- 🏗️ **Platforms** that support community building and digital preservation
-- 🛠️ **Developer tools** that democratize technology access  
-- 🌍 **Applications** addressing social good through innovative technical solutions
-- 🤝 **Teams** that appreciate both individual expertise and collaborative growth
-
+I am currently building RewindOS a cultural analytics platform that cuts through hype to measure what media actually does, not what people claim it means.
 ---
 
 ## 💭 Philosophy
@@ -122,8 +116,7 @@ Seeking opportunities with **mission-driven companies** that value both technica
 
 ## 📫 Let's Connect
 
-💼 **Open to software engineering opportunities** at progressive tech companies  
-🤝 **Available for open source collaboration** on digital preservation projects  
+🤝 **Available for open source and paid collaborations** for television data projects  
 🎤 **Interested in speaking** about digital community dynamics and preservation ethics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/john-falco-54464220/)
