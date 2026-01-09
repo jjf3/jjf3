@@ -42,9 +42,9 @@ Full-stack developer with **6+ years building scalable applications** and **12+ 
 > RewindOS turns pop culture into verifiable data, replacing rumor, AI slop, and hype with transparent analysis.
 > RewindOS measures culture with data, not vibes.
 
-**Tech Stack:** React, Node.js, Python, Docker, PostgreSQL  
-**Features:** Community collaboration, automated tagging, bulk processing  
-**Impact:** Preserving digital culture for future generations  
+**Tech Stack:** Python, Excel, Wordpress  
+**Features:** White papers, Cultural analysis, and controversey tracking 
+**Impact:** Quantifying different media signals and their impacts.
 
 ### 🔍 Security Research Tools
 > Ethical security analysis focused on threat intelligence and community protection
@@ -53,10 +53,7 @@ Full-stack developer with **6+ years building scalable applications** and **12+ 
 **Focus:** Responsible disclosure practices, automated threat detection  
 **Impact:** Enhanced community safety through proactive security measures  
 
-### 🌐 Open Source Contributions
-> Contributing to preservation tools and community-driven projects
-
-**Focus Areas:** Digital preservation, developer tools, community platforms  
+**Focus Areas:** Television Data Journalism, developer tools, community platforms  
 **Philosophy:** Bridging technical solutions with cultural impact  
 
 ---
